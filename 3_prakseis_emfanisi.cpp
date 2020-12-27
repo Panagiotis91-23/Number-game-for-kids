@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	// Start
     int n,i,k,l,o; // metavlites pou tha xrisimopoihsw
 
     cout<<"game of numbers"<<endl;
